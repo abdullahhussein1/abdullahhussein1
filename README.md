@@ -1,7 +1,9 @@
-### Most Welcome 👋
-- 🌱 I’m currently learning Javascript
-- 💬 Ask me about javascript, java, tailwind
+<h1 align="center">Assalamu alaikum 👋, I'm Abdullah</h1>
+<h3 align="center">A passionate frontend developer from Kurdistan</h3>
 
+- 🌱 I’m currently learning Javascript
+- 💬 Ask me about javascript, java, tailwind 
+<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahhussein1&show_icons=true&locale=en&layout=compact" alt="abdullahhussein1" /></p>
 
 <!--
