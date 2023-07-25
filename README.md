@@ -1,22 +1,8 @@
-<h1 align="center">Assalamu alaikum 👋, I'm Abdullah</h1>
-<h3 align="center">A passionate frontend developer from Kurdistan</h3>
+## Assalamu alaikum 👋, I'm Abdullah</h1>
 
-- 🌱 I’m currently learning Javascript
-- 💬 Ask me about javascript, java, tailwind 
-<br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahhussein1&show_icons=true&locale=en&layout=compact" alt="abdullahhussein1" /></p>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=abdullahhussein1&show_icons=true&hide_border=true&title_color=ffffff&icon_color=40E0D0&text_color=fffff&border_radius=15&bg_color=060A0CD0&layout=compact&card_width=450)](https://github.com/abdullahhussein1/abdullahhussein1)
 
-<!--
-**abdullahhussein1/abdullahhussein1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=abdullahhussein1">
+</a>
+<a href="https://github.com/abdullahhussein1?tab=followers"><img src="https://img.shields.io/github/followers/abdullahhussein1?label=Followers&style=social" alt="GitHub Badge"></a>
