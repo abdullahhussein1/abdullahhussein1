@@ -1,4 +1,4 @@
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=abdullahhussein1&show_icons=true&title_color=ffffff&text_color=ffffff&border_radius=30&&theme=transparent&layout=compact&card_width=495)](https://github.com/abdullahhussein1/abdullahhussein1)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=abdullahhussein1&show_icons=true&border_radius=30&theme=gotham&layout=compact&card_width=495)](https://github.com/abdullahhussein1/abdullahhussein1)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullahhussein1&show_icons=true&title_color=ffffff&text_color=ffffff&border_radius=30&&theme=transparent&locale=en" alt="abdullahhussein1" /></p>
 
