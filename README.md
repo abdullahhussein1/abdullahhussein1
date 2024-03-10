@@ -1,5 +1,3 @@
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abdullahhussein1&mode=weekly&theme=whatsapp-dark2&border_radius=30)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abdullahhussein1&mode=weekly&theme=whatsapp-dark2&border_radius=30&CurrStreakNum=ffffff&fire=21c164&ring=0f3629)](https://git.io/streak-stats)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullahhussein1&show_icons=true&bg_color=0b141b&ring_color=21c164&hide_title=true&icon_color=858a8d&text_bold=false&text_color=ffffff&border_radius=30&theme=gotham&locale=en&card_width=495&border_color=0e2a23#gh-dark-mode-only" alt="abdullahhussein1" /></p>
-<p align="center" style="margin-top:23">
-<img align="center" style="border-radius:50px;" src="https://komarev.com/ghpvc/?username=abdullahhussein1&color=0b141b">
-</p>
+<p align="center" style="margin-top:23"><img align="center" style="border-radius:50px;" src="https://komarev.com/ghpvc/?username=abdullahhussein1&color=0b141b"></p>
